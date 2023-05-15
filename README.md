@@ -1,10 +1,10 @@
-# Prueba técnica para Juniors y Trainees de React en Live Coding de Midudev
+# Technical test for React Juniors and Trainees in Midudev's Live Coding
 
 APIs:
 
 - Facts Random: https://catfact.ninja/fact
 - Imagen random: https://cataas.com/cat/says/hello
 
-- Recupera un hecho aleatorio de gatos de la primera API
-- Recuperar la primera palabra del hecho
-- Muestra una imagen de un gato con la primera palabra usando la segunda API
+- Retrieves a random cat fact from the first API
+- Retrieve the first word of the fact
+- Display a picture of a cat with the first word using the second API
