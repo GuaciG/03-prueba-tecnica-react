@@ -7,7 +7,67 @@ main {
   font-family: system-ui;
 }
 
-main img {
-  max-width: 320px;
+h1 {
+  margin-bottom: 3rem;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+aside {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.newfact-button {
+  align-items: center;
+  background-color: #0a66c2;
+  border: 0;
+  border-radius: 100px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: system-ui;
+  font-size: 16px;
+  font-weight: 600;
+  justify-content: center;
+  line-height: 20px;
+  max-width: 200px;
+  min-height: 40px;
+  min-width: 0px;
+  overflow: hidden;
+  padding: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+}
+
+.newfact-button:hover {
+  background-color: #16437e;
+}
+
+section img {
+  max-width: 280px;
   height: auto;
+}
+
+@media (max-width: 500px) {
+  section {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  aside {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
 }

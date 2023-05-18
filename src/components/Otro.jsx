@@ -1,3 +1,4 @@
+/* eslint-disable space-before-function-paren */
 import { useCatImage } from '../hooks/useCatImage'
 
 export function Otro() {

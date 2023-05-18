@@ -1,3 +1,4 @@
+/* eslint-disable spaced-comment */
 // @ts-check
 import { test, expect } from '@playwright/test'
 
