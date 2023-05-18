@@ -1,5 +1,7 @@
+/* eslint-disable space-before-function-paren */
 import './App.css'
-//import { Otro } from './components/Otro'
+// import { Otro } from './components/Otro'
+
 import { useCatFact } from './hooks/useCatFact'
 import { useCatImage } from './hooks/useCatImage'
 

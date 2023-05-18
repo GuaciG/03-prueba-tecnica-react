@@ -1,3 +1,5 @@
+/* eslint-disable space-before-function-paren */
+/* eslint-disable spaced-comment */
 import { useEffect, useState } from 'react'
 import { getRandomFact } from '../services/facts'
 

@@ -1,3 +1,5 @@
+/* eslint-disable space-before-function-paren */
+/* eslint-disable spaced-comment */
 import { useEffect, useState } from 'react'
 
 const CAT_PREFIX_IMAGE_URL = 'https://cataas.com'
