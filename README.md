@@ -1,5 +1,7 @@
 # Technical test for React Juniors and Trainees in Midudev's Live Coding
 
+![Technical Test - Cats Api](https://res.cloudinary.com/drpcjt13x/image/upload/v1692719526/Proyectos/Technical%20Test%20-%20Cats%20Api/Cats_App_qwzr3i.jpg)
+
 APIs:
 
 - Facts Random: https://catfact.ninja/fact

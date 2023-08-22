@@ -9,6 +9,8 @@ main {
 
 h1 {
   margin-bottom: 3rem;
+  color: #ffffff;
+  margin-top: 4rem;
 }
 
 section {
@@ -23,6 +25,7 @@ aside {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: #ffffff;
 }
 
 .newfact-button {
